@@ -1,0 +1,8 @@
+ORL[[:space:]]Dataset filter=lfs diff=lfs merge=lfs -text
+Skin[[:space:]]Cancer[[:space:]]MNIST[[:space:]]Dataset filter=lfs diff=lfs merge=lfs -text
+UCI[[:space:]]Dataset filter=lfs diff=lfs merge=lfs -text
+UMIST[[:space:]]Dataset filter=lfs diff=lfs merge=lfs -text
+warpPIE10P[[:space:]]Dataset filter=lfs diff=lfs merge=lfs -text
+Breast[[:space:]]Histopathology[[:space:]]Dataset filter=lfs diff=lfs merge=lfs -text
+COIL20[[:space:]]Dataset filter=lfs diff=lfs merge=lfs -text
+Malaria[[:space:]]Cell[[:space:]]Dataset filter=lfs diff=lfs merge=lfs -text
